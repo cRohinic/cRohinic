@@ -8,7 +8,7 @@ A dedicated and self-motivated MERN stack developer with a passion for building 
   - Full-stack application for managing gym memberships and fitness tracking
   - Features: BMI calculator, workout tracking, payment integration, email notifications, admin dashboard
   - Tech stack: React.js, Redux, Tailwind CSS, Node.js, Express.js, JWT, bcrypt
-  - [Live Demo]([your-demo-link](https://fit-she.vercel.app/)) | [GitHub Repo]([your-repo-link](https://github.com/cRohinic/fitShe))
+
 
 - **Naturro - E-commerce Platform**
   - Responsive e-commerce platform with secure payment processing
