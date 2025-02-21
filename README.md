@@ -40,11 +40,7 @@ A dedicated and self-motivated MERN stack developer with a passion for building 
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![NGINX](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx&logoColor=white)
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohinic699&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohinic699&theme=radical" alt="GitHub Streak" />
-</p>
+
 
 ## 🎓 Education & Certifications
 - MERN Stack Development at Brototype, Kochi (Oct 2023 – Present)
@@ -66,4 +62,4 @@ A dedicated and self-motivated MERN stack developer with a passion for building 
 
 
 ---
-⭐️ From [rohinic699](https://github.com/rohinic699)
+⭐️ From [rohinic699](https://github.com/cRohinic)
