@@ -3,19 +3,6 @@
 ## 👨‍💻 About Me
 A dedicated and self-motivated MERN stack developer with a passion for building robust and scalable web applications. Proficient in MongoDB, Express.js, React, and Node.js, acquired through self-directed learning and hands-on projects. I specialize in full-stack development, from designing database schemas to implementing responsive user interfaces.
 
-## 🔭 Current Projects
-- **FitShe - MERN Stack Gym Application** 
-  - Full-stack application for managing gym memberships and fitness tracking
-  - Features: BMI calculator, workout tracking, payment integration, email notifications, admin dashboard
-  - Tech stack: React.js, Redux, Tailwind CSS, Node.js, Express.js, JWT, bcrypt
-
-
-- **Naturro - E-commerce Platform**
-  - Responsive e-commerce platform with secure payment processing
-  - Features: User authentication, product listings, order processing
-  - Built with: Node.js, Express, MongoDB, Razorpay
-  - Deployed on AWS with NGINX
-  - [GitHub Repo]([your-repo-link](https://github.com/cRohinic/Naturro))
 
 ## 🛠️ Technologies & Tools
 ### Frontend Development
