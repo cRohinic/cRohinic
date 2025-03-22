@@ -2,6 +2,7 @@
 
 ## 👨‍💻 About Me
 A dedicated and self-motivated MERN stack developer with a passion for building robust and scalable web applications. Proficient in MongoDB, Express.js, React, and Node.js, acquired through self-directed learning and hands-on projects. I specialize in full-stack development, from designing database schemas to implementing responsive user interfaces.
+
 PORTFOLIO:https://crohinic.github.io/Me/
 
 ## 🛠️ Technologies & Tools
